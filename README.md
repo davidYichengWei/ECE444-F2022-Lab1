@@ -19,3 +19,6 @@ Commit made by me:
 
 Commit made by my teammate:
 <img width="1309" alt="Screenshot 2022-09-19 at 7 47 01 PM" src="https://user-images.githubusercontent.com/77185679/191138177-305c17ec-3ec6-483a-8473-bd3036e9de99.png">
+
+## Activity 5
+<img width="622" alt="Screenshot 2022-09-19 at 8 09 09 PM" src="https://user-images.githubusercontent.com/77185679/191140153-ee808d19-7ce3-417d-87d7-e9e19431bd4a.png">
