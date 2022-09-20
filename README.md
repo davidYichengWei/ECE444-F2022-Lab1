@@ -33,7 +33,8 @@ I lost the output when I was rebasing, but the following was the command I used:
 
 ## Activity 8
 <img width="569" alt="Screenshot 2022-09-19 at 9 17 41 PM" src="https://user-images.githubusercontent.com/77185679/191146262-cd14568f-51a6-42e6-9327-04a992d7e7f9.png">
-<img width="1289" alt="Screenshot 2022-09-19 at 9 18 09 PM" src="https://user-images.githubusercontent.com/77185679/191146303-b6f9b427-ab40-4a75-ac6c-48b5c51ab45e.png">
+<img width="1296" alt="Screenshot 2022-09-19 at 9 29 33 PM" src="https://user-images.githubusercontent.com/77185679/191147433-4da576b3-efc5-4f2a-9184-b1f99ebe9798.png">
+
 
 
 
