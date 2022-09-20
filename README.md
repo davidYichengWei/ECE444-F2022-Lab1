@@ -31,5 +31,9 @@ I lost the output when I was rebasing, but the following was the command I used:
 <img width="604" alt="Screenshot 2022-09-19 at 9 04 27 PM" src="https://user-images.githubusercontent.com/77185679/191145046-686f6ba0-dc41-412e-95e8-061fa19bfaa3.png">
 <img width="1321" alt="Screenshot 2022-09-19 at 9 04 48 PM" src="https://user-images.githubusercontent.com/77185679/191145085-8a549811-9ed4-485f-9e5b-76353d813934.png">
 
+## Activity 8
+<img width="569" alt="Screenshot 2022-09-19 at 9 17 41 PM" src="https://user-images.githubusercontent.com/77185679/191146262-cd14568f-51a6-42e6-9327-04a992d7e7f9.png">
+<img width="1289" alt="Screenshot 2022-09-19 at 9 18 09 PM" src="https://user-images.githubusercontent.com/77185679/191146303-b6f9b427-ab40-4a75-ac6c-48b5c51ab45e.png">
+
 
 
