@@ -22,3 +22,6 @@ Commit made by my teammate:
 
 ## Activity 5
 <img width="622" alt="Screenshot 2022-09-19 at 8 09 09 PM" src="https://user-images.githubusercontent.com/77185679/191140153-ee808d19-7ce3-417d-87d7-e9e19431bd4a.png">
+
+## Activity 6
+Link to EP repo: https://github.com/davidYichengWei/ECE444-F2022-EP
